@@ -1,6 +1,5 @@
 # Mind-SC2
 
-## Planning
 The full plan will be given in a few days. We need to do some cleanup of our code. The first version of the code (including P vs. T in the mind game) will be released within a week.
 
 ## TODO
@@ -12,6 +11,4 @@ The full plan will be given in a few days. We need to do some cleanup of our cod
 
 ## Citation
 Please cite our paper if you find this repository useful.
-```
 
-```
